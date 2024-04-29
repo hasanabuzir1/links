@@ -6,7 +6,6 @@ body{
     align-items: center;
     flex-wrap: wrap;
 }
-
 .social{
     width: 100%;
     top: 100px;
@@ -41,7 +40,6 @@ body{
 @media (max-width: 480px){
     .social-card{
         width: 280px; 
-        margin: 0 20px 0 0;
         font-size: 20px;
     }
 }
